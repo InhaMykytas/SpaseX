@@ -1,0 +1,150 @@
+body{
+width: 1437px;
+height: 3559px;
+background: #010001;
+}
+.space{
+background-image: url(images/logo.svg);
+width: 138.118px;
+height: 16.706px;
+flex-shrink: 0;
+margin-right: 400px ;
+}
+.header_ul{
+color: #FFF;
+font-family: Roboto;
+font-size: 12px;
+font-weight: 400;
+}
+.header_header{
+display: flex;
+justify-content: center;
+padding: 55px 50px;
+}
+.section_list{
+display: inline;
+}
+.header_ul > li{
+list-style-type: none;
+display: inline;
+margin-left: 20px;
+}
+.header_about{
+margin-right: 200px;
+}
+.header_h1{
+ color: #FFF;
+text-align: center;
+font-family: Roboto;
+font-size: 64px;
+font-weight: 400;
+margin-top: 100px;
+margin-right: 390px;
+
+}
+.header_p{
+    color: #FFF;
+    text-align: center;
+    margin-right: 390px;
+    font-family: Roboto;
+    font-size: 16px;
+    line-height: 140%;
+    text-transform: lowercase;
+}
+.main_earth{
+    background-image: url(images/image\ 2.png);
+    width: 1437px;
+    height: 1006px;
+    flex-shrink: 0;
+}
+
+.main_context{
+    display: flex;
+    width: 600px;
+    
+}
+.div_context{
+    display: inline;
+    width: 1200px;
+    margin-top: 200px;
+    margin-left: 100px;
+}
+.raceta{
+    display: inline;
+    background-image: url(images/image-removebg-preview\ 1.svg);
+    width: 700px;
+height: 1718px;
+flex-shrink: 0;
+}
+.div_list{
+    width: 600px;
+    margin-top: 300px;
+}
+.main_ul1, .main_ul2{
+    display: inline-block;
+   margin: 0;
+padding: 0; 
+margin-right: 100px ;
+}
+.main_ul1 > li, .main_ul2 > li {
+color: #FFF;
+list-style-type: none;
+font-family: Roboto;
+font-size: 18px;
+line-height: 200%;
+
+}
+.main_text{
+color: #FFF;
+font-family: Roboto;
+font-size: 24px;
+text-transform: uppercase;
+}
+.main_text_par{
+    width: 490px;
+    color: #FFF;
+font-family: Roboto;
+font-size: 16px;
+line-height: 200%; 
+}
+.div_list > h4{
+    line-height: 200%; 
+}
+.footer_footer{
+text-align: center;
+margin-top: 100px;
+}
+.footer_space{
+    background-image: url(images/logo.svg);
+    width: 138.118px;
+height: 16.706px;
+flex-shrink: 0;
+margin: auto;
+}
+.footer_ul{
+    color: #FFF;
+font-family: Roboto;
+font-size: 18px;
+margin-top: 50px;
+}
+.footer_ul > li{
+    list-style-type: none;
+    display: inline;
+    margin-right: 20px;
+}
+.footer_par{
+    color: #808080;
+font-family: Roboto;
+font-size: 18px;
+margin-top: 30px;
+margin-bottom: 30px;
+}
+.footer_contact{
+    margin-top: 30px;
+    color: #FFF;
+    width: 200px;
+font-family: Roboto;
+font-size: 18px;
+border: 3px solid white;
+margin: auto;
+}
